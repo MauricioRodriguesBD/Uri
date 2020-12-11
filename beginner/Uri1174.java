@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Uri1174 {
 	public static void main(String[] args) {
-		double A[] = new double [100];
+		double A[] = new double [11];
 		Scanner ler = new Scanner(System.in);
 		
 		for(int i = 0 ; i <A.length;i++) {

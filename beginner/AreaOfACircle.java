@@ -31,9 +31,6 @@ public class AreaOfACircle {
     System.out.printf("A=%.4f\n", A);
     
      
-  
+	}
 	
-}
-
-
 	}
